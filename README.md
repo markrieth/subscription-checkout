@@ -1,4 +1,4 @@
-# subscription-checkout
+# Subscription Checkout
 A subscription signup / checkout flow using React / Redux. 
 
 [Live demo](https://sub.markrieth.com)
